@@ -1,1 +1,1 @@
-# understand-bitcion
+# understand-bitcoin
