@@ -17,7 +17,7 @@ parsed_json=json.loads(urls.text)
 repo_count= parsed_json['total_count']
 repositories=[]
 while(1):
-	time.sleep(0.720001)
+	time.sleep(0.72001)
 	temp_url=url+'&page='+str(page)
 	urls= requests.get(temp_url,headers=headers)
 	page+=1
@@ -29,7 +29,7 @@ while(1):
 		break
 branches=[]
 for repo in repositories:
-	time.sleep(0.720001)
+	time.sleep(0.72001)
 	repo_tmp=repo+"/branches"
 	repo_json= requests.get(repo_tmp,headers=headers)
 	parsed_json=json.loads(repo_json.text)
@@ -40,7 +40,7 @@ dates_lines={}
 dates_commits={}
 commits = open("commits.txt",'w')
 for branch in branches:
-	time.sleep(0.720001)
+	time.sleep(0.72001)
 	commits.write(branch)
 	commits.write("\n")
 	branch_json= requests.get(branch,headers=headers)
