@@ -1,0 +1,359 @@
+dkaparis/bitcoin-cmake;hg;Unofficial Bitcoin client repository, for integrating CMake build support.
+mizerydearia/bitcoin;hg;Bitcoin is a peer-to-peer network based digital currency.
+CaptainChemo/bitcoin.net;hg;A .NET client for BitCoin - this is just a test system to see how easy it would be and is not finished.
+jneb/bitcoin;hg;A bitcoin data miner with many features. Explores local block chain, talks to the local bitcoin server, gets info from mining pools, and so on.
+qce/bitremote;hg;BitRemote is a sinatra based webapp for managing remote instances of bitcoind.
+tumdum/jbitcoinbot;hg;
+dalsh/jsoclbm;hg;Javascript OpenCL Bitcoin Miner
+shadders/bitcoin-poolserverj;hg;PoolServerJ is a high performance bitcoin mining pool engine implemented in java.
+jonnyheggheim/bitcoinborsen;git;
+jine/bitcoin-poolserverj;hg;
+tobyink/p5-finance-bitcoin;hg;
+theblueeyz/bitcoin-poolserverj-mssql;hg;
+hobson/bitpart;git;Udacity CS101 Contest Submission for Team BitPart. The bitcrawl application crawls the web, mining data (extracting numbers) about bitcoin or any other concept or keyword. Machine learning and natural language processing will be used to make sense of the quantitative data and attempt to forecast changes in that data.
+ryandick/node_coinly;git;NodeJs, Zmq and Mongo bitcoin peer and farm
+strayguin/jtradr;git;Trade bot for bitcoin (and beyond?) in Java
+damyot/pycoins;hg;A small package to deal with bitcoins.  There is already a low and a high level api to interact with MtGox and different classes to represent different amounts in different currencies.
+comrad/btc-eur-webconverter;hg;A web-based Bitcoin to EUR (and vice versa) converter, optimized for mobile devices
+renning/bitzino;git;a quick way to lose bitcoins!
+4bitcoin/pics;hg;
+evhan/chicken-bitcoin;git;An interface to bitcoind's JSON-RPC API for Chicken Scheme.
+tbak/bitcoin-video-casino-python-library;hg;Library for Bitcoin Video Casino.
+tbak/bitcoinvideocasino_android;hg;
+On top of that, P2PNet also focus strongly on its security features while providing a distributed network configuration. Using methods which can be found in BitTorrent and as well as Bitcoin, P2PNet is set to cater wide variety usage of a peer to peer network while ensuring it's data integrity. 
+nickmunson/bitcoinminer;git;Diablo (Java-based miner),
+Donation bitcoin address: 1Lh7a1tx7EREENawQyHhiKoCRF6u6TzVrD
+xenithorb/bitcointip_count;hg;Paste r/somereddit/path/to/comment and it will tell you if and how many BTC have been tipped on that page, and at what value USD. 
+im0hamed/bitcoin;hg;
+eburley/bitcoin;git;
+azazar/bitcoin-json-rpc-client;hg;Lightweight Java bitcoin JSON-RPC client binding. It does not require any external dependencies.
+dkmiecik/dkbitcointray;git;Prosty monitor giedowy Bitcoin.
+netroby/bcm;git;bitcoin miner tools
+vfarcy/bitcoin;git;Bitcoin integration/staging tree
+azku/nicotib;hg;Nicotib is an application written in Erlang which aims to provide a medium to interact with the block chain and the bitcoin network.
+fiftin/bitcoinsimplepool;git;Bitcoin/Litecoin replicator.
+vershinin/bitcoin-poolserverj;hg;
+parttimelegend/bitcoin;git;Bitcoin integration/staging tree
+parttimelegend/bitcoin-address-utility;git;Generates Bitcoin addresses, converts between hex/address and public/private keys.
+parttimelegend/bitcoin.org;git;Bitcoin.org website
+parttimelegend/bitcoinbrainwalletsweeper;git;
+parttimelegend/bitcoinbusinesspack;git;A collection of documents and files for promoting the use of Bitcoin within businesses
+parttimelegend/bitcoinexchangeautohacker;git;
+parttimelegend/bitcoinpos;git;
+parttimelegend/buttercoin;git;Opensource Bitcoin Exchange Software
+parttimelegend/freecoins;git;The source code for the Legendary Faucet Bitcoin Faucet
+parttimelegend/octopress-bitcoin-donation-aside;git;This is a new custom aside for Octopress that shows a QR Code and an address to send Bitcoin donations to.
+ludwig1024/bitcoin-sms;git;
+downrightmike/bitcoin-poolserverj;hg;
+niseh/zencoin;git;Bitcoin stuff
+zozo123/bitcoin;git;Bitcoin integration/staging tree
+nicja/slush-stats;git;Small Angular JS + PHP project that displays visualisations of Bitcoin mining statistics for users of Slush's Pool (mining.bitcoin.cz)
+cemasoniv/pysimplewallet;hg;PySimpleWallet is a Python 3.3 wallet using 3rd-party trust to make working with Bitcoins convenient.
+hsk81/quotestream;git;FX Streaming Engine: Trades Bitcoins on Bitstamp.net
+phezzant/engg1805;git;Bitcoin presentation
+thejf/bitchangejs;git;A jQuery script that displays the MtGox exchange rate of Bitcoin on hover
+eft890/cbitcoin;git;A low-level bitcoin library written in standard C.
+mischief/btcfs;hg;bitcoin filesystem in go
+If I mentioned your company, service or some random word you feel that you own then consider yourself acknowledged as the owner and feel free to send an advertising fee to bitcoin:1K11bRzSv6X5YGmSUXdfDxPQSzJSLtnh9J.
+If I mentioned your company, service or some random word you feel that you own then consider yourself acknowledged as the owner and feel free to send an advertising fee to bitcoin:1K11bRzSv6X5YGmSUXdfDxPQSzJSLtnh9J.
+apantano/drupal-7-bitcoin-paypal-blocks;git;
+senecaso/gamblor;git;bitcoin bet processing engine
+dabron/bitcoin-nfc;git;This is a proof of concept app, written as a project for my Master's Report at the University of Texas. The goal is to be able to swap Bitcoins between two NFC-enabled Android devices.
+jzeidner/bitcoin-json-rpc-client;hg;
+antiface/bitcrawl;git;A fork of => Mine webpages for numerical data and forecast bitcoin popularity.
+ripper234/bitcoin-peak;git;What's the peak bitcoin price?
+ripper234/bitcoin-pie;git;A pie chart of the different bitcoin alternatives
+ripper234/bitcoin-potato;git;A game of Hot Potato using Bitcoin
+ripper234/bitcoin.org;git;Bitcoin.org website
+ripper234/bitcoinatm-exe;git;Automated asymmetrical exchange of bitcoin and physical items of value. Currently supporting Genmega ATMs & Kiosks. (locally running executable)
+ripper234/bitcoinatm-php;git;Automated asymmetrical exchange of bitcoin and physical items of value. Currently supporting Genmega ATMs & Kiosks. (Client/Server php))
+ripper234/bitmarket;git;A bitcoin market
+ripper234/btctox;git;A currency rate converter webapp from Bitcoin to other currencies
+ripper234/hardware-bitcoin-wallet;git;A minimal Bitcoin wallet intended for embedded devices
+brianmcgee/bitcoin-testnet-box;git;
+Doctor_McKay/blockchain.info-whmcs-payment-gateway;hg;A Bitcoin payment gateway for WHMCS utilizing Blockchain.info's receiving API.
+Kazuldur/bitsproxy;git;Simple proxy for bitcoin/litecoin daemon for faucets.
+mackler/bitcoinj-cli;hg;Simple interactive shell for the Java bitcoinj library.
+xenovyzarz/bitcoin;git;Bitcoin integration/staging tree
+vub/pybitcointools;git;SImple, common-sense Bitcoin-themed Python ECC library
+vub/dotheyacceptbitcoin;git;Do They Accept Bitcoin: The Chrome Extension. https://chrome.google.com/webstore/detail/do-they-accept-bitcoin/nofccoknfcageikhnhfhkpcdciapdaja
+vub/btckeysplit;git;Bitcoin private key splitter
+FaustoCarrera/bitcoin-trades;git;Bitcoin trades in Argentina
+sweinberg/bitaddress.org;git;JavaScript Client-Side Bitcoin Wallet Generator
+sweinberg/bitdonate;git;itDonate is an easy way to accept Bitcoin donations on your website.
+P_W999/coins-monitor;git;Coins monitor is a Windows Sidebar Gadget which can monitor up to three BitCoin (BTC) or LiteCoin (LTC) pools. The gadget shows:
+matrixvisionA/bitcoinj;git;Fork of Mike Hearn's bitcoinj to make a couple of minor changes.
+adamburan/bitcoin;git;Bitcoin integration/staging tree
+adamburan/cryptotrade;git;A simple Python API wrapper for Bitcoin trading platforms such as MtGox and TradeHill
+adamburan/diablominer;git;OpenCL miner for Bitcoin
+savroff/wuzazu;git;RPS-game on bitcoin
+NdyGen/btc24-php;git;PHP API Connector for http://bitcoin-24.com/
+anuraguniyal/splitwallet;git;Bitcoin wallet split into two, first part SplitWallet can create transactions but have no access to internet and hence can not post transaction neither your private key and hence relatively safe to use compared to connected wallet, SplitWallet can post transaction by emitting an Android Intent
+toaarnio/jsoclbm;hg;WebCL Bitcoin Miner
+dondersteen/bitstarter-leaderboard;git;A more sophisticated Bitcoin-powered crowdfunder.
+brianchen/bitcoin-json-rpc-client;hg;
+thomasnlee/bitcoin;git;Bitcoin integration/staging tree
+thomasnlee/multibit;git;MultiBit is a desktop bitcoin client, powered by bitcoinj
+bpovod/publiconlinebitcoinwallet;git;Online bitcoin wallet.
+kacmem/publiconlinebitcoinwallet;git;
+CAJIO/publiconlinebitcoinwallet;git;
+dkodnik/publiconlinebitcoinwallet;git;
+athornburg/bitcoinresearch;git;A lecture on distributed aspects of bitcoin
+a3voices/coinhype;git;coinhype bitcoin exchange
+codeninja_ru/bitcoin-json-rpc-client;hg;
+TAiS46/bitcoin-mobile-charts;git;
+fuchs82/bitcoin-arb;git;Arbitrage trade finder for bitcoin
+mxhero/conectabitcoin-app-i18n;git;
+mkondratov/bitcoin-json-rpc-client;hg;
+mackler/hdkeygen;hg;Bitcoin hierarchical determinstic (HD) wallet public master key generator
+richardjlo/bitstarter-leaderboard;git;A more sophisticated Bitcoin-powered crowdfunder.
+igormuzyka/publiconlinebitcoinwallet;git;
+mauro_baraldi/bitquote;git;Get bitcoin quotes every minute.
+Adam_Paterson/bitpay-module;git;Magento payment method enabling bitcoin payments
+dave_andersen/exchange;git;Go interface code for several bitcoin exchanges and information services.
+latypoff/bitcoin-mtgox-feed;git;MetaTrader 4 price feed for bitcoin real-time quotes (BTCUSD, BTCEUR, BTCRUB etc)
+mobilecloudlab/madp_fall2013_bitcoinapp;git;
+gtrdblt/bitcoin-prices;git;Display bitcoin prices in human-friendly manner in fiat currency using bitcoinaverage.com market data
+tomaz_moharic/mt.gox-bitcoin-exchange;hg;Mt.gox (https://www.mtgox.com/) je ena od najpomembnejih borz za trgovanje z virtualno kriptovaluto Bitcoin. Dostop do trenutnih podatkov o stanju na borzi je mogo preko spletne storitve (https://en.bitcoin.it/wiki/MtGox/API). Cilj projekta je sestaviti program, ki bo prikazoval podatke (npr. trenutno stanje na borzi, ponudbo in povpraevanje, zgodovino za neko obdobje).
+ageis/https-github.com-ageis-mtgoxticker.git;git;Mt.Gox live Bitcoin price ticker for mIRC
+ageis/otcgpg;git;mIRC helper script for GPG/gribble on #bitcoin-otc
+PeppeLaKappa/btc-calc;git;OSX Bitcoin<->USD calculator
+See https://bitcointalk.org/index.php?topic=345619.msg3759147#msg3759147
+danaki/bitcoinvideocasino_android;hg;
+zorbash/bitcoin-presentation;git;
+cpiccione/satoshi;git;A simple matching engine library for bitcoin (futures) trading.
+zenaha/btc-game;git;Bitcoin game
+bitcoinmegalottery/secrets;git;This repository is proof that the secret tokens are generated ahead of time and are verified.
+yung_lam/bitcoinvideocasino_android;hg;
+sirensource/bitcoinspin;git;
+giszmo/fluxbitcoin-monitor;hg;Monitor for the Sony Smartwatch 2 and maybe in the future other smartwatches as the Pebble.
+lotcoin-dev/coinlock;git;Crypto curriencies (Bitcoin / Litecoin / Lotcoin / others) offline wallet app for Android
+ubermaki/cgminer;git;ASIC and FPGA miner in c for bitcoin
+dsaa/bitcoin-clone-in-haskell;git;A Bitcoin clone written in Haskell
+ex_mac/qubitcoin-hash;git;Hash functions for QubitCoin
+sirensource/bitcoinspin-web;git;
+gjhiggins/qubitcoin-hash;git;stashed
+jeffreylroberts/cgminer;git;ASIC / FPGA / GPU miner in c for bitcoin and litecoin
+renning/bruteforce-bitcoin-brainwallet;git;Bruteforce dictionary attack on bitcoin brain wallets
+pointychimp/bt.cb-gui;git;Bitcoin Cost Basis. A somewhat-useable program for keeping track of all your incoming and outgoing bitcoin and the historic value of those coins. It can be used for calculated capital gains or loses.
+mathrawka/gobtc;git;Golang Bitcoin UserAgent Crawler
+tyftyftyf/bitcoin-json-rpc-client;hg;
+pureveg/wallet;git;bitcoin client golang
+jmistry/bitcoin-price-ticker;git;A simple Python program that prints the latest Bitcoin price.
+bkintanar/bkintanar_bitcoin;git;
+pankkake/bcwatch;git;Bitcoin-Central watcher
+JBreit/bitcoinvideocasino_android;hg;
+rabbitcoin/rabbitcoin;git;RabbitCoin daemon and client
+psp-power/bitcoincalculator;git;
+Aletos/bitcoinid;git;Bitcoin Identity Explorer
+cjwhittington/shipit-bitcoin-confluence;git;
+Bitcoin: 16879UkumDhMeAqJkqN33zKroWukeXUkJ4
+asirnayeef22-admin/bitcoin-faucet;git;
+PeterNSteinmetz/bitcoin-json-rpc-client;hg;May work on pom and maven integration.
+bartosz666/bitcoin-market;git;
+shadders/bitcoinj;git;
+charles_a_hope/portico;git;Command line client for Early Temple, a Bitcoin Oracle.
+sardarnl/pychallenge;hg;A small library that allows you to enforce Hash-cash like challenge (similar to one used by Bitcoin) on your API clients.
+simonluijk/btc-watcher;git;Simple web app to watch the balance of bitcoin addresses. Can be viewed at https://s3-eu-west-1.amazonaws.com/btcwatcher/index.html
+sandersh6000/bitcoinz;git;
+bjmiller01/ib-homework;git;A small example express app for aggregating trade data from two Bitcoin exchange APIs, done for a code test.
+alexykot/xbterminal-bitcoinj-server;git;
+ckolivas/ckpool;git;Ultra low overhead massively scaleable multi-process, multi-threaded modular bitcoin mining pool, proxy, passthrough, library and database interface in c for Linux.
+MattiaB/bitcoin-analysis;git;
+jacpagan/bc;git;bitcoin data 
+Wizmaster/bitcoin-abe;git;Abe: block browser for Bitcoin and similar currencies
+kkiziniewicz/bitcoin;git;
+michaelphipps/coinspot;git;A PHP API Wrapper for CoinSpot, an Australian crypto-currency exchange for trading a growing number of crypto-currencies, including Bitcoin (BTC), Litecoin (LTC), Dogecoin (DOGE), Maxcoin (MAX), Peercoin (PPC), Worldcoin (WDC), Lottocoin (LOT), Quark (QRK), Mooncoin (MOON), Feathercoin (FTC) and Primecoin (XPM).  See https://www.coinspot.com.au/api
+pkeane4osu/bitcoind;git;Ruby interface to the 'bitcoind' JSON-RPC API.
+gazzbert/ada-engine;git;Ada is a Java algo trading bot for running on bitcoin exchanges.
+NSTongK/bitcoin;git;
+sjurajpuchky/cgminer;git;ASIC and FPGA miner in c for bitcoin
+sjurajpuchky/hamiyoca;git;Hash me if you can - A Bitcoin miner that supports pure Javscript, WebWorker and WebGL mining.
+mchel_angelo/cpuminer;git;CPU miner for Litecoin and Bitcoin
+joaopauloribeiro/hardware-bitcoin-wallet;git;
+cinderblocks/libbitcoin;git;
+ychaim/bitcoin-mtgox-feed;git;
+mattdoiron/btcndash;hg;BTCnDash: Python script to generate and server status dashboard of a full Bitcoin node
+jtooker/bitcold;git;A Bitcoin cold storage wallet.  It is used on two Android devices: a cold device and a hot one.  All private keys are stored on the cold device.  Transactions are generated and submitted on the hot device, but signed on the cold device.  All input/output of the code device is done via QR codes.
+ruddellj/bitprices;git;Open source application built with Ionic Framework and AngularJS for tracking Bitcoin Prices from the palm of your hand.
+bjmgeek/cpuminer;git;CPU miner for bitcoin
+drshoe/bitcoinarbitrage;git;simple bitcoin arbitrage
+Udjin/bitcore;git;Bitcore is a complete, native interface to the Bitcoin network, and provides the core functionality needed to develop apps for bitcoin. #bitcore on Freenode.
+thehobbit85/bitcoin-java-api;git;An easy to use, low dependencies bitcoind API implementation in JAVA
+lisa3907/bitcoin.net;hg;
+basehat/coinmarket;hg;Open-Source Bitcoin Marketplace, similar to craigslist.com, built on the Zend Framework.
+ferranp/docker-bitcoin-testnet;hg;
+https://bitcointalk.org/index.php?topic=661781.0
+dstorm/p2pool-btcd;git;P2Pool for BitcoinDark
+artlucas/exchange_rates;git;Tracks exchange rates for CAD to PHP via conventional money remittance services and using bitcoin exchanges. Results are written to a CSV file. Intended to be run over a long period of time.
+bitdominion/cryptoexchange-lib-python;git;Provides an abstracted interface to the various APIs of Bitcoin (and other cryptocurrency) exchanges. Fork of "coink/cryptex" with additional support for exchanges used by Bitdominion.
+cpyi/bitcoinminer;git;SHA256 Verilog Implementation With Separated Input Interface And SHA Calculation Engine
+premasagar/bitcoinaverage;git;BitcoinAverage.com website
+albrow/bitcoin-script-encoder-decoder;git;Utilities for encoding bitcoin script code to and from hex
+pankkake/bitcoin-node;git;Script to set up a Debian-based Bitcoin node
+katzmopolitan/bitcoin-autosell-broker;git;
+djfang/bitcoins;git;
+Lukenzi/codeigniter-bitcoin;git;Zjitn aktulnho kurzu Bitcoinu pro PHP framework CodeIgniter
+darkFunction/bitcoinircsentiment;git;Score mood across bitcoin IRC channels
+longzai1988/bitcoindark-qt;git;import from https://github.com/laowais/bitcoindark
+ferranp/docker-bitcoind;hg;
+goalkeeper112/api-para-sistema-bitcoin;git;Esta api es para un sistema personal de wizardluiz
+kimyu92/testing-bitcoin-central;git;Bitcoin Central
+badfrog/bitcoin_portal;git;
+giuliano150/multibit;git;MultiBit is a desktop bitcoin client, powered by bitcoinj
+MultiCoinPool/public-wif-bitcoin-ecdsa-generator;git;Stripped version of https://github.com/pointbiz/bitaddress.org
+HorstAccapella/full-node-list;git;A list of full bitcoin nodes as a reference for users.
+cpitta/omniauth-localbitcoins;git;
+iorgamgabriel/bitcoinvideocasino_android;hg;
+bfla/bitvols;git;Express and Nodejs app for Bitcoin currency information.  
+miohtama/cryptoassets;git;Bitcoin, cryptocurrency and cryptoassets API, database models and accounting library
+lordofthepigs/bitcoincharts-dataset-processor;hg;
+slmnkhokhar/source_for_ornl;git;This repository contains all the source code to be transferred to ORNL for the anomaly detection verification work using bitcoin data
+cpitta/bitcoind_client;git;
+rohanalivenet/bitcointest;git;
+MaximSh/bitcoin-investing;git;
+igor_sh_/rabbitcoin;git;
+chrisyou/bitcoin-conversion;git;Simple PHP and JSON based bitcoin exchange calculator
+mjacobi/bitcoin-server;hg;
+BitcoinDark/repository;git;
+bichuetti/bips;git;Bitcoin Improvement Proposals
+bichuetti/bitcoin-multisig;git;Javascript Bitcoin Multi Signature Address Script
+bichuetti/bitcoinjs-lib;git;Bitcoin-related functions implemented in pure JavaScript
+bichuetti/bitcoinjs-server;git;Bitcoin network node in JavaScript using Node.js / MongoDB
+bichuetti/bitcoinlib;git;C# Bitcoin, Litecoin and Bitcoin-Clones Library & RPC Wrapper
+bichuetti/bitsharp;git;C# Bitcoin Node
+bichuetti/buttercoin;git;Opensource Bitcoin Exchange Software
+bichuetti/coinpunk;git;Open source, self-hosted DIY Bitcoin wallet service
+bichuetti/insight-api;git;A bitcoin blockchain API for web wallets
+bichuetti/intersango;git;bitcoin exchange
+bichuetti/nbitcoin;git;Bitcoin implementation for the .NET platform
+bichuetti/nbitcoin.indexer;git;
+bichuetti/nbitcoin.watcher;git;JSON service for tracking Bitcoin balances (Multi-purpose)
+bichuetti/open-business;git;Technical specification for Open Business creation, for a Bitcoin capitalized, and anonymous Business creation
+bichuetti/toshi;git;An open source Bitcoin node built to power large scale web applications.
+rvdesai/bitcoinminer;git;
+janko33/bitcoin-wallet-4.16;git;
+ Mining for Bitcoins
+catcoin/catcoin-git;git;Git tracking repository of Catcoin blockchain ported into current bitcoin
+tetpay/bitcoind.js;git;
+tetpay/bitcoin;git;
+tetpay/bitcoin-brand;git;
+aehaynes/bpa;git;Django stuff for Bitcoin Poker Analytics
+BishKopt/bitcoin-address-color-swatches;hg;I'm suggesting graphical representation of bitcoin addresses that will help humans identify and compare them.
+salvipascual/bitbank;git;There are so many people already making money directly on Bitcoins, and they don't have a place to save it directly, in a secured and straightforward manner, with the peace of mind that their money will be insurance on any catastrophic events. That is what this application does.
+kevinjk/bitcoinvideocasino_android;hg;
+gamerholics/gamerholic-coin-api;git;Gamerholic coin is a crypto currency like bitcoin. Use Gamerholic coin on Gamerholic.com
+YoavMagshimim/magshimimproject;hg;bitcoin network
+magshicoin/bitcoin-project;hg;Main
+repopo/btc-now;git;GTK applet which displays bitcoin price from Bitfinex.
+christo/bitcoin-scripts;git;bits and pieces of random automation for bitcoin and related blockchain tech
+barry_allard/bitcoin;git;Golang (go) library for manipulating bitcoin (BTC) addresses
+barry_allard/bitcoin-qt;git;Forked from Bitcoin 
+dave_menninger/flask-blockio-faucet;git;cloud deployable dogecoin ( or bitcoin ) faucet
+naddison/crypto-trading;git;A Node.js framework for trading against crypto currency exchanges. eg Bitcoin
+joakes90/coinbase_ticker;git;tracks bitcoin price from coin base and displays it in the mac status bar
+joakes90/currencycrunch;git;Bitcoin/precious metal holding evaluation site
+ashishb/bitcoin_android_keyboard;git;Bitcoin button in the keyboard
+anvitapandit/btcpredictor;git;bitcoin price prediction using bayesian regression techniques
+canterburycomputers/localbitcoins-observer;git;A quickly hacked together tool written in PHP :/ to get trade date from localbitcoins
+numisight/explorer;git;Numisight Bitcoin Explorer
+slimmtl/hardware-bitcoin-wallet;git;A minimal Bitcoin wallet intended for embedded devices
+graingert/bitcoin;git;Bitcoin integration/staging tree
+graingert/bitcoin-irp;git;
+graingert/bitcoin-ppa-utils;git;
+graingert/bitcoin.org;git;Bitcoin.org website
+techsd/bitex;git;BlinkTrade - Open Source Bitcoin Exchange
+techsd/cpuminer;git;CPU miner for Litecoin and Bitcoin
+cryptorinium/cryptorinium;git;Altcoin based off of the Bitcoin source code
+8bitcoin/8bit;git;
+jessejusoli/android-wallet-2-app;git;My wallet Android App - Fork of Bitcoin Wallet for android 
+jessejusoli/bitcoin-mirror;git;Bitcoin Core integration/staging tree
+jessejusoli/bitcoin-wallet-mirror;git;Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
+jessejusoli/bitcoinj;git;A library for working with Bitcoin
+jessejusoli/bitex;git;BlinkTrade - Open Source Bitcoin Exchange
+jessejusoli/coinffeine;git;P2P and Decentralized Bitcoin Exchange
+jessejusoli/cotacaomercadobitcoin;git;Script para verificar as cotaes do Bitcoin e Litecoin pelo MercadoBitcoin
+trevorbernard/bitcoind-wrapper;git;
+roistudent2/bitcoin;git;Bitcoin java project repo
+loning/bitcoind-wrapper;git;
+gvlad/bitcoind-wrapper;git;
+benmcginnes/margin-call-bitcoind-wrapper;git;
+VTalyh/bitcoind-wrapper;git;
+sergshabal/bitcoind-wrapper;git;
+hoangan/margincallio-bitcoind-wrapper;git;Code review
+isponline/bitcoind-wrapper;git;
+market666/bitcoind-wrapper;git;
+sprice/btc;git;a command-line bitcoin price board for geeks
+valiumsen/bitcoind-wrapper;git;
+k_g/bitcoind-wrapper;git;
+Terrance_Minsk/bitcoinapp;git;
+alex_wind/bitcoind-wrapper;git;
+KingArbinv/bitcoinvideocasino_android;hg;
+wskinner/bitcoin-utils;git;An extensible platform for interacting with bitcoin exchanges.]
+colin_leong/bitaddress.org;git;JavaScript Client-Side Bitcoin Wallet Generator
+colin_leong/bitcoinjs-lib;git;Bitcoin-related functions implemented in pure JavaScript
+colin_leong/bitfunding;git;Extension for mediawiki to track bitcoin crowdfundings
+colin_leong/blockparser;git;Fast, quick and dirty bitcoin blockchain parser
+colin_leong/coinjoin.js;git;Javascript module with coinjoin implementation compatible with bitcoinjs-lib
+colin_leong/coinpunk;git;Open source, self-hosted DIY Bitcoin wallet service
+colin_leong/python-obelisk;git;Pure Python Obelisk + Bitcoin client side library
+bredfern/bonobo-chat;git;A realtime chat system with video and audio and bitcoin billing built on meteor (well those are the features when its done).
+bredfern/bitstarter-leaderboard;git;A more sophisticated Bitcoin-powered crowdfunder.
+deginner/apistore;git;Api Store is a new type of shopping experience. Taking advantage of the trustless, p2p Bitcoin payment network, goods and services can now be purchased with no signup or prior relationship required. The checkout and payment processes can now be completely automated.
+kar_tx/bitcoin.si;git;
+olliecaine/bitwallet;git;An open source design of a consumer focused Bitcoin wallet.
+finbit_/elements;git;Feature experiments to advance the art of Bitcoin
+seedcoin1/margincallio-bitcoind-wrapper;git;
+frolov_vyacheslav/bitcoin_quiz;git;
+libertyx/ltx_connect_nodejs;git;This library provides a Node.js client that can communicate with LibertyX's WebSocket server - using this, bitcoin services can smoothly integrate with LibertyX.
+HenriHeinonen/bitcoin-utopia-skriptit;git;Bitcoin Utopia -skriptej.
+HenriHeinonen/bitcoin-ja-lamportin-allekirjoitukset;git;Tutkimussunnitelman valmistelua
+satoshift/bitcoin-ruby;git;
+pham_mr/bitcoin-wordpress-plugin;git;GoUrl Official Bitcoin Payment Gateway for Wordpress 3.5+ (or higher). Sell Products, Files, Digital Downloads, Membership on your website. Accept Bitcoin, Litecoin, Dogecoin, Darkcoin, Reddcoin, etc Payments Online. Use Pay-Per-Download, Pay-Per-Product, Pay-Per-Membership, Pay-Per-Page/Video-Access on your website. It is Easy!
+pham_mr/block_io-php;git;The PHP library for Block.io's easy wallet creation, money sending and received API for Dogecoin, Litecoin, and Bitcoin.
+mapkon/bitcoinborsen;git;
+pandalion98/bitcoin-all-key-generator;git;directory.io without the latency
+paul_lin_/bitcoin;git;Bitcoin Core integration/staging tree
+imfree/django-bitcoin;git;
+bitcartel/bitcoinxt;git;
+bitcartel/bitcoinxt-obb-gitian;git;
+bitcoincs/docker-ar_php;git;Application Runner / PHP Instance
+bitcoincs/docker-ar_mysql;git;Application Runner / MySql Instance
+bitcoincs/docker-ar_nginx;git;Application Runner / Nginx Instance
+bitcoincs/docker-ar_backup;git;Application Runner / Backup Instance
+bitcoincs/docker-ai_php;git;Admin Interface / PHP Instance
+bitcoincs/docker-ai_mysql;git;Admin Interface / MySql Instance
+bitcoincs/docker-ai_nginx;git;Admin Interface / Nginx Instance
+bitcoincs/docker-ai_backup;git;Admin Interface / Backup Instance
+dnath/ramseycoin;git;Cloud Infrastructure for mining "Ramsey" Bitcoins
+awemany/bitcoinxt-obb-gitian;git;
+bryanvu/coinshuffle-wallet;git;Coinshuffle demo wallet - forked from SF Bitcoin Devs HD Wallet
+mzyy94/bitcoin-script-encoder-decoder;git;
+vladendark/bitcoinstar;git;
+SMilhano/php-bitcoin-price;git;PHP site that shows the latest Bitcoin prices.
+nepalbitcoin/ethereum-with-testnet;git;geth 1.1.2 with privatechain/testnet
+Hobbyistpool/rabbitcoin;git;Update Checkpoints
+teambitcoin/walletapi;git;Code repository for WalletAPI and its modules.
+teambitcoin/walletapimobileclient;git;Code repository for Bushido Wallet Android
+teambitcoin/walletapiwebclient;git;Code repository for Wallet Management Web Application and Analytics Dashboard.
+BTCDDev/bitcoindark-releases;git;
+jojijacob06/dos-project-1-bitcoins;git;Project #1 for DOS (COP5615)
+mobimodder/airwallet;git;Client-side web wallet & blockexplorer for Bitcoin, Litecoin, Dogecoin, Vertcoin, and PeerCoin using bkchain  http://airwallet.me
+mobimodder/altcointip;git;Reddit ALTcointip bot gives users ability to tip each other using various cryptocurrency coins, such as Bitcoins, Litecoins, Peercoins, Namecoins, and others.
+mobimodder/android-peercoinwallet;git;Fork of Mycelium Bitcoin Wallet for Android to be made for Peercoin, please read https://github.com/FuzzyBearBTC/android-peercoinwallet/issues/13
+mobimodder/bitcoin;git;Bitcoin Core integration/staging tree
+mobimodder/bitcoin-wallet;git;Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
+mobimodder/bitcoinexchange;git;A opensource exchange script for digital currencies like Bitcoin and countless others.
+mobimodder/bitcoinj;git;A library for working with Bitcoin
+mobimodder/bitcoinjs-lib;git;Bitcoin-related functions implemented in pure JavaScript
+mobimodder/bitcoinwallet;git;supybot plugin for an IRC bitcoin wallet
+mobimodder/bitcoinxt;git;
+mobimodder/bitcore-node;git;Full node with extended capabilities using Bitcore and Bitcoin Core
+mobimodder/bitex;git;BlinkTrade - Open Source Bitcoin Exchange
+mobimodder/bitnotar;git;a notary service based upon the bitcoin blockchain to testify the existence of a document at a certain point in time
+mobimodder/blockcrawler;git;Portable BitCoin Block Chain Explorer
+mobimodder/breadwallet;git;breadwallet iOS bitcoin wallet
+P3lUZa/bitcoind-wrapper;git;
+crtf/bitcoind-wrapper;git;
+mobimodder/bitcoinconversions;git;
+cop5615dos/bitcoinmining;git;Bitcoin Mining Simulation
